@@ -6,7 +6,7 @@ The rapid advancement of vision-based fire detection models is driving the repla
 
 # Data collection
 - Dataset was taken from kaggle. It contains 755 Fire and 244 non-fire outdoor images in seperate folders.
-- Since non-fore images were less compared to fire images data augmentation is appiled on non-fire images, so both fire and non-fire iamges are 755.
+- Since non-fire images were less compared to fire images data augmentation is appiled on non-fire images, so both fire and non-fire iamges are 755.
 - 555 images were kept for training and 200 images for testing in both classes.
 
 # Training
