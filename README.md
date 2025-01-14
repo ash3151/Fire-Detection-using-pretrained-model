@@ -16,7 +16,8 @@ The rapid advancement of vision-based fire detection models is driving the repla
 
 # Steps to re-create this model
 - Download the dataet from kaggle and run the data augmentation `.ipynb` code step by step.
-- Run the fire-model-creation `.ipynb` file and save the model to use it on images and videos
+- Run the fire-model-creation `.ipynb` file and save the model to use it on images and videos.
+- While training it is recommended to use gpu, select runtime for colab and Accelerator in Kaggle.
 - You could also run `app.py` in your system to get results on video.
 
 # Further Improvements
